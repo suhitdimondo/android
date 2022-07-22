@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Google17" />
+      <option name="name" value="Google17" />
+      <option name="url" value="https://dl.google.com/dl/android/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="MavenRepo15" />
+      <option name="name" value="MavenRepo15" />
+      <option name="url" value="https://repo.maven.apache.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="BintrayJCenter9" />
+      <option name="name" value="BintrayJCenter9" />
+      <option name="url" value="https://jcenter.bintray.com/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven" />
+      <option name="name" value="maven" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/background_fetch-1.1.0/android/libs/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven2" />
+      <option name="name" value="maven2" />
+      <option name="url" value="https://storage.googleapis.com/download.flutter.io" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven5" />
+      <option name="name" value="maven5" />
+      <option name="url" value="https://maven.google.com" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven4" />
+      <option name="name" value="maven4" />
+      <option name="url" value="https://jitpack.io" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$PROJECT_DIR$/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/connectivity_plus_linux-1.3.1/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/image_picker-0.8.5+3/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/firebase_core-1.18.0/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/package_info-2.0.2/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/connectivity_macos-0.2.1+2/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/shared_preferences-2.0.15/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/geocoding-2.0.4/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.4/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/video_player_web-2.0.10/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/location_permissions-2.0.5/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.6/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/connectivity_plus_web-1.2.2/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/image_picker_for_web-2.1.8/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/audioplayer-0.8.1/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/shared_preferences_windows-2.1.1/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.4/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/connectivity-3.0.6/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/google_maps_flutter-2.1.8/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/shared_preferences_linux-2.1.1/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/audioplayers-0.20.1/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/geocoder-0.2.1/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/google_api_availability-2.0.4/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/firebase_auth-3.3.20/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path_provider-2.0.11/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/connectivity_plus_windows-1.2.2/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/shared_preferences_android-2.0.12/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/image_picker_android-0.8.5+1/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/image_picker_ios-0.8.5+5/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/qrcode-1.0.4/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/video_player_avfoundation-2.3.5/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/connectivity_plus_macos-1.2.3/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$PROJECT_DIR$/app/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/device_info-2.0.3/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/video_player_android-2.3.6/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/location-4.4.0/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/location_web-3.1.1/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/video_player-2.4.5/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/flutter_sensors-0.1.6/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/firebase_auth_web-3.3.17/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/git/flutter-nfc-plugin-b8bf37718b293f4dce8434543705d5527e8c610d/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/fluttertoast-8.0.9/android/libs/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path_provider_ios-2.0.9/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path_provider_windows-2.0.7/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/git/flutter-nfc-reader-888b03c7158440959d660dca26ee8951c84263c6/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/shared_preferences_ios-2.1.1/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/qr_code_scanner-0.5.2/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/sqflite-2.0.2+1/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path_provider_linux-2.1.7/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/store_launcher-1.0.1/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/launch_review-3.0.1/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/connectivity_plus-2.3.4/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/sensors-2.0.3/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path_provider_macos-2.0.6/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/geolocator-4.0.3/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/flutter_logs-2.1.6/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/connectivity_for_web-0.4.0+1/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/firebase_core_web-1.6.5/android/libs" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven3" />
+      <option name="name" value="maven3" />
+      <option name="url" value="file:/$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/path_provider_android-2.0.14/android/libs" />
+    </remote-repository>
+  </component>
+</project>
