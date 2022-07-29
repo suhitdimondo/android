@@ -1,0 +1,42 @@
+/*
+  Future Emailer(String _luogo, String note, String marticola, List media, List qty, List pr) async {
+    try{
+
+      final user = await GoogleAuthApi.signIn();
+      if(user == null) return;
+      final email = user.email;
+      final auth  = await user.authentication;
+      final token  = auth.accessToken;
+
+      print('Autenticated : $email');
+
+      final smtpServer = gmailSaslXoauth2(email, token);
+
+
+      final message = Message()
+        ..from = Address(email, 'das das')
+        ..recipients = ["suhit@jlbbooks.it","mgionta@winitsrl.eu","dTezzon@winitsrl.it"]
+        ..subject = 'ClockApp - Richiesta prodotti'
+        ..html = mailBody;
+      try {
+        final sendReport = await send(message, smtpServer);
+        print('Message sent: ' + sendReport.toString());
+        GoogleAuthApi.signOut();
+
+      } on MailerException catch (e) {
+        print(e);
+        print('Message not sent.');
+        for (var p in e.problems) {
+          print('Problem: ${p.code}: ${p.msg}');
+        }
+      }
+      _toast("Fatto Inviare Email..");
+
+
+    }catch(e){
+      _toastError("Errore..");
+    }
+  }
+
+
+}

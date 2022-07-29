@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124886184751",
+    "project_id": "email-ef0e8",
+    "storage_bucket": "email-ef0e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124886184751:android:0c95ca610f1bf68c2da7da",
+        "android_client_info": {
+          "package_name": "it.winit.clockApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124886184751-aofooltonaqrm4upil3q4vnc4u9ujdbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD2n9Px49K854497-7zERCz8R54xump1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124886184751-aofooltonaqrm4upil3q4vnc4u9ujdbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
